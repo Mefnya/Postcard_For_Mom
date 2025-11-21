@@ -1,0 +1,90 @@
+body{
+    background-color: #FFC0C0;
+}
+h1{
+    color: #ffffff;
+    text-align: center;
+    font-size: 100px;
+}
+.container{
+    position: relative;
+}
+.image1{
+    position: absolute;
+    top: 353.02px;
+    left: 350.29px;
+}
+.image2{
+    position: absolute;
+    top: 57px;
+    left: 362.91px;
+}
+.text1{
+    position: absolute;
+    top: 107px;
+    left: 382.91px;
+    transform: rotate(-15.17deg);
+    color: #BD7B7B;
+    font-size: 50px;
+}
+.text2{
+    position: absolute;
+    top: 207px;
+    left: 415.91px;
+    transform: rotate(-15.17deg);
+    color: #BD7B7B;
+    font-size: 50px;
+}
+.text3{
+    position: absolute;
+    top: 387px;
+    left: 465.91px;
+    transform: rotate(-15.17deg);
+    color: #BD7B7B;
+    font-size: 50px;
+}
+.image3{
+    position: absolute;
+    top: 353.98px;
+    left: 350.29px;
+}
+.image4{
+    position: absolute;
+    top: 206px;
+    left: 119px;
+}
+.momo-trust-display-regular {
+  font-family: "Momo Trust Display", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    text-align: left;
+}
+.header-img{
+    width: 1910px;
+    margin: -10px;
+}
+.footer-img{
+    width: 1910px;
+    margin: -10px;
+    margin-top: 1100px;   
+}
+.header-container{
+    position: relative;
+}
+.header-a{
+    position: absolute;
+    margin-left: 1781px;
+    margin-right: 100px;
+    margin-top: -100px;
+    color: black;
+    font-size: 20px;
+}
